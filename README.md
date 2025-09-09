@@ -30,15 +30,20 @@ This is a React + Redux based dashboard that allows users to manage (add, remove
 ## Tech Stack
 
 **React** - frontend framework
+
 **Redux Toolkit** - state management
+
 **Tailwindcss** - styling
+
 **UUID** - auto-generate unique widget IDs
+
 **fontawesome** - for Icons
 
 ## Steps to locally run the Application
 
 ### 1. Clone the Repository:
 git clone https://github.com/Greeshma-jagarapu/Widgets-Management-Dashboard.git
+
 cd Widgets-Management-Dashboard
 
 ### 2. Install Dependencies:
