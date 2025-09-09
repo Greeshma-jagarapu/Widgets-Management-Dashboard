@@ -1,6 +1,8 @@
 # Widgets-Management-Dashboard
 This is a React + Redux based dashboard that allows users to manage (add, remove and search) widgets under different categories.
 
+Visit https://widgets-management-dashboard.netlify.app/ to view the application.
+
 ## Features
 
 ### Dynamic Categories and Widgets
